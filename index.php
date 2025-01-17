@@ -165,7 +165,7 @@
 					</div>
 					<div class="pie2 col-md-6">
 						<div class="d-grid gap-2 col-6 mx-auto">
-							<a href="https://wa.me/541122550060" class="btn btn-success" target="_blanck"><i class="fa fa-whatsapp">&nbsp; Directo</i></a>
+							<a href="https://wa.me/541122550060" class="btn btn-success" target="_blanck"><img src="img/Wtsp.png" width="15%">&nbspDirecto</a>
 						</div>
 					</div>
 				</div>
