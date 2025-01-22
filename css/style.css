@@ -108,16 +108,17 @@ textarea {
 
 /* Formulario de contacto */
 .form-contact {
-	background: white;
+	background: rgba(1, 255, 255, 0.8);
 	margin: 1em auto;
 	max-width: 90%;
 	padding: 50px 0;
 	width: 500px;
+	border-radius: 25px;
 }
 
 /* Título formulario de contacto */
 .form-contact .title-form-contact {
-	color: #404040;
+	color: #ffffff;
  	font: bold 2em 'Dancing Script', sans-serif;
 	margin-bottom: 50px;
 	text-align: center;
@@ -146,7 +147,7 @@ textarea {
 
 /* Labels formulario de contacto */
 .form-contact .ctn-inputs .support-text-form-contact {
-	color: #999999;
+	color: #ffffff;
 	font: normal 14px 'Nunito Sans', sans-serif;
 	left: 5px;
 	pointer-events: none;
@@ -158,7 +159,7 @@ textarea {
 
 /* Efecto labels cuando el input esta en estado focus o valido Formulario de contacto */
 .form-contact .ctn-inputs .support-text-form-contact.active-input-form-contact {
-	color: #505050;
+	color: #ffffff;
 	font-size: 12px;
 	top: -20px;
 }
@@ -166,13 +167,13 @@ textarea {
 /* Inputs formulario contacto */
 .form-contact .ctn-inputs .effect-input {
 	background-color: rgba(0, 0, 0, 0);
+	color: #ffffff;
 	border-style: none;
 	border-bottom: 1px solid #a4a4a4;
 	display: block;
 	font-family: 'Montserrat', sans-serif;
 	letter-spacing: 1px;
 	padding: 1em 20px 1em 5px;
-	text-transform: lowercase;
 	width: 100%;
 }
 
@@ -183,9 +184,9 @@ textarea {
 /* Barra de los inputs para el efecto formulario de contacto */
 .form-contact .ctn-inputs .bar-input-effect:before {
 	content: '';
-	background-color: #000000;
+	background-color: #ffffff;
 	bottom: 0;
-	height: 2px;
+	height: 3px;
 	position: absolute;
 	transition: 0.3s ease all;
 	width: 0;
@@ -358,14 +359,13 @@ footer p{
 	text-align: center;
 	background: rgba(0, 160, 160, 0.7);
 	padding-top: 20px;
-	border-radius: 15 15 0 0px;
+	border-radius: 25px;
 }
 .pie ul li{
 	display: inline-block;
-	margin: 0 15px;
+	margin: 0 25px;
 	width: 50px;
 	height: 50px;
-	text-align: center !important;
 }
 .pie ul li a{
 	display: block;
@@ -395,15 +395,4 @@ footer p{
 }
 .pie ul li .linkedin:hover{
 	background: var(--linkedin);
-}
-.pie2{
-	text-align: center;
-	padding-top: 20px;
-	padding-bottom: 20px;
-	background: rgba(0, 160, 160, 0.7);
-}
-.pie2 a{
-	text-decoration: none;
-	font-size: 20px;
-	color: white;
 }
