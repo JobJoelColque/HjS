@@ -16,7 +16,7 @@ body{
 .container-fluid{
 	background: rgba(0, 160, 160, 0.7);
 }
-#mainNav{
+.mainNav{
 	align-items: center;
 }
 .menu img{
