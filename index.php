@@ -49,7 +49,7 @@
 			</div>
 			<div class="row">
 				<div class="col-md-6">
-					<video src="video/hjs7.mp4" controls autoplay muted loop width="100%"></video>
+					<video src="video/hjs8.mp4" controls autoplay muted loop width="100%"></video>
 				</div>
 				<div class="col-md-6">
 					<p>Al servicio de usuarios de equipos de escritorio y configuración gamer, como así de Notebooks. Nos especializamos en actualización de equipos con Micros Intel  y Micros AMD. Confiamos en que el cliente tenga un aprendizaje de lo que es el mantenimiento básico del equipo, ofreciendole la oportunidad de un pequeño entrenamiento en lo que son fallas comunes como el tema de temperatura cuando el cooler y disipador de la CPU o Notebook tienen obstrucción producto de polvo acumulado por el tiempo de servicio del equipo (notandose mas este efecto en las Notebooks) lo que hace que en momentos el cooler (ventilador) trabaje en su maxima velocidad, haciendo en que el proceso que esta realizando el equipo se cuelgue. Asesoramiento a la hora de actualizar o añadir una placa de video o memoria RAM (DDR3, DDR4, DDR5)</p>
