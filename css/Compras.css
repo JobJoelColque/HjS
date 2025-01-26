@@ -1,0 +1,20 @@
+body{
+	padding: 0px !important;
+	margin: 0px !important;
+	background: url(../img/fondo2.png);
+	background-size: cover;
+	background-attachment: fixed;
+	box-sizing: border-box;
+}
+.container-fluid{
+	background: rgba(0, 160, 160, 0.7);
+}
+.col-md-12{
+    text-align: center;
+}
+.col-md-12 img{
+    border-radius: 25px;
+    margin: auto!important;
+    width: 75%;
+
+}
